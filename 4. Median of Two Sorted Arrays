@@ -1,7 +1,6 @@
 可以直接用STL的merge sort就好
 這題簡單來說就是合併找中位數
 
-```cpp
 class Solution {
 public:
 
@@ -48,4 +47,3 @@ public:
     }
 
 };
-```
